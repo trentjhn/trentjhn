@@ -2,7 +2,7 @@
 
 **Technical Product Manager** specializing in AI-powered growth products and lifecycle engagement.
 
-Currently building products at PayPal | CS from Yale | Former Varsity Football
+Ex-PayPal | CS from Yale | Former Varsity Football
 
 ## 🚀 What I'm Building
 
