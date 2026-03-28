@@ -16,11 +16,12 @@ Practitioner-depth reference on AI engineering. 13 synthesized docs across promp
 
 - **Push notifications:** Expanded from one basic alert to a personalized global platform across 4 continents. 140M logins, $2.4M margin impact.
 - **Cart abandonment:** Shipped in 6 weeks under code freeze. 52% conversion lift on 7.3M abandoned carts annually.
-- **Orders V2 API:** Defined schema requirements for SKU-level metadata to enable product recommendations.
+- **Product reviews & recommendations:** Defined schema requirements from the Orders V2 API for SKU-level metadata — the data foundation for product reviews and personalized recommendations.
+- **Orders V2 API:** Translated cross-functional requirements into API specs, bridging engineering and product across distributed teams.
 
 ## Background
 
-Yale University — B.A. Computer Science, 2023. Ivy League Champion, varsity football.
+Yale University — B.A. Computer Science, 2023. 3x Ivy League Champion, varsity football.
 
 ---
 
