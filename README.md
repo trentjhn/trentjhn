@@ -1,45 +1,27 @@
-# Hi, I'm Trenton Johnson 👋
+# Trenton Johnson
 
-**Technical Product Manager** specializing in AI-powered growth products and lifecycle engagement.
+Technical PM who builds AI systems.
 
-Ex-PayPal | CS from Yale | Former Varsity Football
+I spent 18 months as a Technical PM at PayPal, then built a set of AI-native systems for my own workflows: a session-aware trading analyst, a knowledge management system, a job search OS. The methodology running through all of them is documented in my public knowledge base.
 
-## 🚀 What I'm Building
+## Public Work
 
-- **[YouTube AI Summarizer](https://github.com/trentjhn/youtube-summarizer-premium )** - AI-powered tool to extract insights from YouTube videos using LangChain & OpenAI GPT-4. Reduced API costs by 80% with multi-layer caching.
+### [Builds Log](https://github.com/trentjhn/AI-Knowledgebase/blob/main/builds-log.md)
+Documents the AI systems I've built — architecture decisions, what made each solution work, and the cross-system patterns running through all of them: context as files, behavioral contracts, dual AI portability, math offloaded to deterministic scripts.
 
-- **[Security VAR Agent](https://github.com/trentjhn/security-var-agent )** - Enterprise security tool evaluation platform using RAG pipeline and vector search to help companies find the right security tools.
+### [AI-Knowledgebase](https://github.com/trentjhn/AI-Knowledgebase)
+Practitioner-depth reference on AI engineering. 13 synthesized docs across prompting, context engineering, agentic systems, evaluation, security, fine-tuning, and inference optimization.
 
-- **[AI Tool Discovery Service](https://github.com/trentjhn/discerna-agent )** - Sophisticated AI tool recommendation engine built with NestJS, helping users find the perfect AI tool for their needs.
+## PayPal (Jan 2024 – Aug 2025)
 
-## 💼 What I Do
+- **Push notifications:** Expanded from one basic alert to a personalized global platform across 4 continents. 140M logins, $2.4M margin impact.
+- **Cart abandonment:** Shipped in 6 weeks under code freeze. 52% conversion lift on 7.3M abandoned carts annually.
+- **Orders V2 API:** Defined schema requirements for SKU-level metadata to enable product recommendations.
 
-At PayPal, I build AI-powered growth products that drive user engagement and revenue:
-- Built push notification platform serving **270M users** globally
-- Drove **$9.5M in incremental revenue** through cart abandonment recovery
-- Led verified product reviews initiative balancing consumer trust, merchant credibility, and PayPal's growth goals
+## Background
 
-## 🛠️ Tech Stack
-
-**Product & Growth:** Lifecycle Marketing, A/B Testing, Funnel Optimization, User Segmentation, Retention Strategies
-
-**Technical:** Python, JavaScript/TypeScript, React, NestJS, Flask, SQL
-
-**AI & Data:** LangChain, OpenAI API, Vector Databases (Pinecone, Neo4j), Redis, MongoDB
-
-**Tools:** Figma, JIRA, Amplitude, Looker, Vercel, Augment Code, Cursor
-
-## 🎓 Education
-
-**Yale University** - B.A. Computer Science | Dec 2023  
-*3x Ivy League Champion - Varsity Football*
-
-## 📫 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/trenton-t-johnson/
-- Email: trenton.johnson@aya.yale.edu
-- Location: Oakland, CA
+Yale University — B.A. Computer Science, 2023. 3x Ivy League Champion, varsity football.
 
 ---
 
-*Currently exploring PM opportunities at AI-first companies building 0-to-1 products.*
+Oakland, CA · [LinkedIn](https://linkedin.com/in/trenton-t-johnson/) · trenton.johnson@aya.yale.edu
