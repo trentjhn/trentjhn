@@ -20,7 +20,7 @@ Practitioner-depth reference on AI engineering. 13 synthesized docs across promp
 
 ## Background
 
-Yale University — B.A. Computer Science, 2023. 3x Ivy League Champion, varsity football.
+Yale University — B.A. Computer Science, Class of 2023. Ivy League Champion, varsity football.
 
 ---
 
