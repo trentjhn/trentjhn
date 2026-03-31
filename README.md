@@ -2,7 +2,7 @@
 
 Technical PM who builds AI systems.
 
-I spent 18 months as a Technical PM at PayPal, then built a set of AI-native systems for my own workflows: a session-aware trading analyst, a knowledge management system, a job search OS. The methodology running through all of them is documented in my public knowledge base.
+I spent 18 months as a Technical PM at PayPal, then built a set of AI-native systems for my own workflows: a session-aware trading analyst, a knowledge management system, an AI learning platform. The methodology running through all of them is documented in my public knowledge base.
 
 ## Public Work
 
