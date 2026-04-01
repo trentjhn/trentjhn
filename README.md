@@ -2,7 +2,7 @@
 
 Technical PM who builds AI systems.
 
-I spent 18 months as a Technical PM at PayPal, then built a set of AI-native systems for my own workflows: a session-aware trading analyst, a knowledge management system, an AI learning platform. The methodology running through all of them is documented in my public knowledge base.
+I spent 18 months as a Technical PM at PayPal, then built a set of AI-native systems for my own workflows: a [session-aware trading OS](https://github.com/trentjhn/trading-os), a [knowledge management system for AI](https://github.com/trentjhn/AI-Knowledgebase), an [AI learning platform](https://github.com/trentjhn/zenkai). The methodology running through all of them is documented in my public knowledge base.
 
 ## Public Work
 
