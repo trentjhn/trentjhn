@@ -1,6 +1,8 @@
 # Trenton Johnson
 
-Technical PM who builds AI systems.
+
+**Technical PM who builds AI systems.**
+
 
 ## Public Work
 
