@@ -6,9 +6,6 @@ I spent 18 months as a Technical PM at PayPal, then built a set of AI-native sys
 
 ## Public Work
 
-### [Magnum Opus / /cook](https://github.com/trentjhn/AI-Knowledgebase/tree/main/future-reference/playbooks)
-A meta-system: a system whose output is other systems. Invoked with `/cook` in Claude Code, it runs a 9-phase interactive workflow and writes a complete, opinionated project structure to disk — CLAUDE.md, SOUL.md, AGENTS.md, design doc, implementation plan, pre-selected agents and skills. Every architectural decision learned across prior builds is encoded in a single structured workflow.
-
 ### [Builds Log](https://github.com/trentjhn/builds)
 Documents the AI systems I've built — architecture decisions, what made each solution work, and the cross-system patterns running through all of them: context as files, behavioral contracts, hub document routing, catalog-first conventions, math offloaded to deterministic scripts.
 
