@@ -10,7 +10,9 @@ I spent 18 months as a Technical PM at PayPal, then built a set of AI-native sys
 Documents the AI systems I've built — architecture decisions, what made each solution work, and the cross-system patterns running through all of them: context as files, behavioral contracts, hub document routing, catalog-first conventions, math offloaded to deterministic scripts.
 
 ### [AI-Knowledgebase](https://github.com/trentjhn/AI-Knowledgebase)
-Practitioner-depth reference on AI engineering. 14+ synthesized docs across prompting, context engineering, agentic systems, evaluation, security, fine-tuning, and inference optimization.
+Most AI engineering tutorials are either too shallow for practitioners or benchmark-focused and decay in months. This is a practitioner-depth synthesis built to age well — 14+ docs across prompting, context engineering, agentic systems, evaluation, fine-tuning, and security, structured as a learning path from first principles to production systems.
+
+It doubles as an operational system: a 22-agent catalog, 34 reusable skills, 8 playbooks, and `/cook` — a 9-phase project scaffold workflow that turns the KB into a decision engine for any new build. Weekly ArXiv digests auto-ingest current research.
 
 ## PayPal (Jan 2024 – Aug 2025)
 
