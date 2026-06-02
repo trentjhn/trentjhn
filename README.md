@@ -1,7 +1,7 @@
 # Trenton Johnson
 
 
-**Technical PM who builds AI systems.**
+**Just a guy who builds AI systems.**
 
 
 ## Public Work
@@ -22,7 +22,7 @@ It doubles as an operational system: a 22-agent catalog, 34 reusable skills, 8 p
 
 ## Background
 
-Yale University — B.A. Computer Science, Class of 2023. Ivy League Champion, varsity football.
+Yale University — Computer Science, Class of 2023. Ivy League Champion, varsity football.
 
 ---
 
