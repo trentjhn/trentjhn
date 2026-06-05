@@ -36,7 +36,7 @@ It doubles as an operational system: an agent catalog, reusable skills, playbook
 
 ## Background
 
-Yale University, Computer Science, Class of 2023. Oakland native.
+Yale University, Computer Science, Class of 2023. Ivy League champion, Yale varsity football. Oakland native.
 
 ---
 
