@@ -1,7 +1,7 @@
 # Trenton Johnson
 
 
-**Just a guy who builds AI systems.**
+**Just a guy who builds.**
 
 
 ## Public Work
