@@ -2,7 +2,7 @@
 
 **I build production AI systems.**
 
-Ex-PayPal technical PM turned AI-native builder. I ship real products and the infrastructure that lets me ship them quickly. 
+Ex-Oracle & PayPal technical PM turned AI-native builder. I ship real products and the infrastructure that lets me ship them quickly. 
 
 ## How I build
 
