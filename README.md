@@ -6,15 +6,7 @@ Yale CS and ex-PayPal technical PM. I work directly with customers: find the rea
 
 ## SignalWorks, Co-founder & AI Engineer (Nov 2025 to present)
 
-AI consultancy. I source the customer, scope in the room, build, and stay through adoption.
-
-- **Employee handbook compliance** for an HR consultancy: watches employment law across 24 sources, flags where a client's handbook has drifted, and drafts a redline from the firm's approved policy library.
-- **Government relations intelligence** (live at [gov.signalworks.live](https://gov.signalworks.live)): scrapers and a summarizer behind a grounding gate, so no displayed fact is model-authored.
-- **Lead generation:** commercial mortgage refinance leads traced from SEC loan filings to reachable owners, and a geospatial tool that turns an address into a ranked, contact-enriched list of nearby businesses.
-
-## Deployed Agent Orchestrator, contract (Aug to Sep 2026)
-
-Five-day field deployment at an AI agent platform for state government. Worked with agency customers and in the product codebase; 16 of 24 pull requests merged.
+An AI consultancy I co-founded to build systems that small and mid-sized businesses run real work on. I own each engagement end to end: I find the customer, scope the problem with them in the room, build against their actual data, and stay through adoption, including training their team to run it without engineering help. The work spans compliance monitoring for an HR consultancy, government relations intelligence, lead generation for a commercial mortgage broker and a marketing client, and AI search visibility for local businesses. The common thread is verification: every system is built so a wrong fact or a silent failure gets caught before a customer acts on it.
 
 ## PayPal, Technical Product Manager (Jan 2024 to Aug 2025)
 
