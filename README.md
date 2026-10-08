@@ -10,7 +10,7 @@ Most of my best work is private. The **[Builds Log](https://github.com/trentjhn/
 
 - **the-lobby:** a task queue that runs headless Claude Code agents against real work across my repos. Agents never hold push credentials, budgets are enforced, and a task only counts as done when three outside signals agree.
 - **My Claude Code setup:** 64 skills, lifecycle hooks, and memory notes that surface on their own, plus a search over every past session. A hand-built context layer for one person.
-- **Field deployment at an agent platform for state government:** found that half the skill library had never been used, traced the likely cause to the skill loader, and got 16 of 24 pull requests merged in a five-day deployment.
+- **Field deployment at an agent platform for state government:** found that 52% of the skill library had never been used, traced the likely cause to the skill loader, and got 16 of 24 pull requests merged in a five-day deployment.
 
 ## SignalWorks (Nov 2025 to present)
 
